@@ -13,4 +13,5 @@ The goals for this project is to build a note taker application which can store 
 
 ## Mock up
 The following image shows the application appearance:
-![application]
+![application](./assets/Images/mockup.jpg)
+
